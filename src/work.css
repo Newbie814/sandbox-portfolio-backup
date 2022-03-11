@@ -1,0 +1,23 @@
+.business-name {
+  font-family: 'Ubuntu';
+  color: var(--primary-red);
+  font-size: 1.4rem;
+  font-weight: 800;
+}
+
+.duties-list {
+  font-family: 'Ubuntu';
+  font-weight: 800;
+  font-size: 0.8rem;
+  color: #1c1c1c;
+  text-transform: uppercase;
+}
+
+.year-worked {
+  font-family: monospace;
+  font-size: 1rem;
+  background: var(--standout-color);
+  color: #1c1c1c;
+  padding: 10px 10px;
+  border-radius: 15px;
+}
